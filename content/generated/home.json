@@ -1,0 +1,198 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Technical Ragdoll MMA: Roblox Wiki & Starter Guide 2026",
+  "description": "Find Technical Ragdoll MMA on Roblox, check official sources, and learn where to start with controls, builds, modes, updates, and verified code information.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Technical Ragdoll MMA Wiki & Guide",
+    "heading": "Technical Ragdoll MMA Wiki and Beginner Guide",
+    "lead": "Technical Ragdoll MMA is a physics-driven Roblox fighting game where you customize your fighter's height, muscle, and fat to compete across five weight classes. The official experience uses ragdoll mechanics for striking, clinching, takedowns, and ground finishes, with modes including Quick Match, Ranked Season 1, Fight Now variants (Stand and Bang, Open Weight, Bare Knuckle, 2v2, 3v3), and private Sparring. The game supports PC, mobile, and console. Below you will find the verified Roblox link, creator details, first-session steps, control guidance, build fundamentals, and the latest code status.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/100580661895757"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-is-technical-ragdoll-mma-game-facts-and-source-checks",
+      "heading": "What Is Technical Ragdoll MMA? Game Facts and Source Checks",
+      "intro": "Technical Ragdoll MMA is a physics-driven Roblox fighting game that gives you direct control over your fighter's body composition. Height determines your reach, while muscle and fat together set your total weight, and that weight governs your power, speed, and cardio output. Those three sliders are not cosmetic: they define which of the five weight classes you compete in, from lightweight up to super heavyweight.",
+      "paragraphs": [
+        "The combat system covers boxing, kickboxing, and wrestling. Within a fight you can slip punches, block, clinch, shoot for takedowns, and work for a finish on the ground. The ragdoll physics engine applies to every strike, so the outcome of each exchange depends on the real contact rather than a fixed animation.",
+        "The mode lineup at launch includes Quick Match for immediate matchmaking, Ranked play with Season 1 live and a ladder running from Amateur to Champion with exclusive gear rewards, and the Fight Now playlist offering Stand and Bang, Open Weight, Bare Knuckle, 2v2, and 3v3 variants. Private Sparring sessions are available for training with friends. The game runs on PC, mobile, and console."
+      ],
+      "table": {
+        "caption": "Technical Ragdoll MMA Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn Technical Ragdoll MMA core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "how-to-find-the-official-roblox-experience-and-check-its-creator",
+      "heading": "How to Find the Official Roblox Experience and Check Its Creator",
+      "intro": "Search for Technical Ragdoll MMA on the Roblox website or in the Roblox app and open the experience page directly. The official listing title is Technical MMA; confirm you are on the correct page by checking that the creator username matches the developer behind this experience before clicking Play.",
+      "paragraphs": [
+        "Copycat listings are common for popular Roblox games. To avoid fakes, verify the creator name on the experience page, check that the visit count and active player figures align with an established game, and look for the official description mentioning five weight classes, Ranked Season 1, and the Fight Now playlist. If the description or creator name does not match, leave the page and search again."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current Technical Ragdoll MMA Requirements",
+          "description": "Review the active mechanics and prerequisites inside Technical Ragdoll MMA before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official Technical Ragdoll MMA patch notes whenever a new update drops."
+        }
+      ],
+      "bullets": [
+        "Open Roblox and search Technical MMA to locate the experience.",
+        "Confirm the creator username on the experience detail page before joining.",
+        "Match the description: five weight classes, Ranked Season 1, Fight Now modes.",
+        "High visit count and active players are a secondary indicator of the authentic listing.",
+        "If anything looks off, do not join — search again or visit the official Roblox URL directly."
+      ]
+    },
+    {
+      "id": "how-to-start-playing-a-first-session-checklist",
+      "heading": "How to Start Playing: A First-Session Checklist",
+      "intro": "You need a Roblox account to play Technical Ragdoll MMA. If you don't have one, create it at roblox.com by choosing a username and password, then verify your email. Once logged in, navigate to the official Technical Ragdoll MMA experience page and click the green Play button. The game will load in your browser or Roblox desktop client.",
+      "paragraphs": [
+        "When you first enter, the main menu shows Quick Match, Ranked, Fight Now, and Sparring. Quick Match drops you straight into a matchmade fight with default settings, making it the fastest way to see the combat system. Sparring lets you create a private server and invite friends, which is useful for practicing controls without pressure. Both modes are open from the start and do not require unlocks.",
+        "Before your first fight, open the character customization screen to adjust height, muscle, and fat sliders. Your choices determine your weight class and affect reach, power, speed, and stamina. The game assigns you to one of five weight classes automatically based on your total weight. Start with balanced sliders in the middleweight range if you are unsure, then refine your build after a few matches."
+      ]
+    },
+    {
+      "id": "controls-combat-basics-and-device-support",
+      "heading": "Controls, Combat Basics, and Device Support",
+      "intro": "Technical Ragdoll MMA runs on PC, mobile, and console, so input layouts differ by device. The dedicated Controls page on this site covers the full binding maps for each platform, including how to slip, block, clinch, shoot for takedowns, and work on the ground.",
+      "paragraphs": [
+        "On the striking side, the game gives you boxing and kickboxing moves alongside wrestling, so your combat options extend well beyond punching. The in-game menu displays your current bindings at any time, which is the fastest way to verify an input or spot a conflict after a remapping.",
+        "If a move is not responding as expected, open the in-game menu first and confirm the binding before assuming a bug. Device-specific troubleshooting and practice drill suggestions are covered on the Controls page."
+      ],
+      "bullets": [
+        "Supported devices: PC, mobile, and console",
+        "Combat disciplines available: boxing, kickboxing, and wrestling",
+        "Actions include slipping, blocking, clinching, shooting for takedowns, and ground finishes",
+        "Check current bindings at any time through the in-game menu",
+        "Full input maps and troubleshooting: see the Controls page"
+      ]
+    },
+    {
+      "id": "body-builds-weight-classes-and-mode-selection",
+      "heading": "Body Builds, Weight Classes, and Mode Selection",
+      "intro": "Your fighter's height, muscle, and fat interact to determine which of the five weight classes you compete in, ranging from lightweight to super heavyweight. Height affects reach, while muscle and fat together set your total weight, which in turn shapes your power, speed, and cardio. Because those three stats pull in different directions, the right balance depends on the mode you plan to queue for.",
+      "paragraphs": [
+        "Ranked Season 1 rewards consistent performance on a single build as you climb from Amateur to Champion, so stability matters more than flexibility there. Open Weight under Fight Now removes the weight class filter entirely, which means a heavier build can face a lighter one, changing how reach and power trade off. Stand and Bang and Bare Knuckle both remove the wrestling element, shifting value toward striking-oriented builds. For a full breakdown of how height, muscle, and fat compare across each weight class, see the Technical Ragdoll MMA Builds page."
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore Technical Ragdoll MMA Guides & Resources",
+      "intro": "Browse our dedicated Technical Ragdoll MMA guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "Technical Ragdoll MMA Codes",
+          "slug": "codes",
+          "description": "Check Technical Ragdoll MMA codes with source links, verification dates, reward details when confirmed, redemption guidance, and tips for spotting fake lists."
+        },
+        {
+          "label": "Technical Ragdoll MMA Update",
+          "slug": "updates",
+          "description": "Track Technical Ragdoll MMA update news through official sources, dated patch notes, feature checks, release timing, and a practical post-patch review."
+        },
+        {
+          "label": "Technical Ragdoll MMA Builds",
+          "slug": "build",
+          "description": "Compare Technical Ragdoll MMA builds by height, muscle, fat, weight class, and mode, with source checks, testing steps, and guidance for choosing a starting."
+        },
+        {
+          "label": "Technical Ragdoll MMA Controls",
+          "slug": "controls",
+          "description": "Find Technical Ragdoll MMA controls for PC, mobile, and console, with in-game menu checks, input troubleshooting, practice drills, and device support guidance."
+        },
+        {
+          "label": "Technical Ragdoll MMA Fight Now Modes",
+          "slug": "fight-now-mode",
+          "description": "Compare Technical Ragdoll MMA Fight Now modes, check playlist rules, explore build choices, and plan practice sessions with mode availability checks and tips."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do I find the official Technical Ragdoll MMA game on Roblox?",
+      "answer": "Visit roblox.com/games/100580661895757 or search for \"Technical Ragdoll MMA\" with the NEW CODE tag in the Roblox app. Confirm the creator username matches Technical_MMA to avoid copycat experiences. The official page will display the five weight classes, Ranked Season 1, and Fight Now mode descriptions."
+    },
+    {
+      "question": "Who created Technical Ragdoll MMA?",
+      "answer": "The developer username is Technical_MMA. Always check this field on the Roblox experience page before joining to ensure you are playing the authentic version and not a clone or scam listing."
+    },
+    {
+      "question": "How do you play Technical Ragdoll MMA for the first time?",
+      "answer": "Launch the game from the official Roblox page, wait for asset loading, then open the main menu. Choose Quick Match for an instant fight or Sparring to practice privately. Customize your height, muscle, and fat sliders before entering any mode; these settings determine your reach, power, speed, and cardio."
+    },
+    {
+      "question": "Where can I check the controls for my device?",
+      "answer": "Open the in-game menu (usually Esc on PC, three-dot icon on mobile, or the equivalent console button) and navigate to the controls or settings section. For detailed input maps and troubleshooting, visit the Controls page on this wiki, which covers PC, mobile, and console layouts."
+    },
+    {
+      "question": "How do I choose a build and weight class?",
+      "answer": "Use the height slider to set reach, then adjust muscle and fat to hit your target weight class (lightweight through super heavyweight). Higher muscle increases power but may reduce speed; higher fat adds weight and changes movement. The Builds page compares specific configurations and explains how each stat affects performance in Ranked versus Open Weight modes."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/100580661895757",
+      "title": "Technical Ragdoll MMA 🥊 [NEW CODE!]",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://technicalragdollmma.wiki/",
+      "title": "Technical Ragdoll MMA Wiki: Roblox Builds (Nov 2026)",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://ragdollmma.com/updates",
+      "title": "Ragdoll MMA Update – BIG UPDATE Timeline",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-16"
+}
